@@ -9,6 +9,7 @@
     <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
     <PackageReference Include="Tailspin.SpaceGame.Web.Models" Version="2.0.1-CI-20200416-161726" />
   </ItemGroup>
+  
 
   <ItemGroup>
     <Folder Include="wwwroot\images\avatars\" />
